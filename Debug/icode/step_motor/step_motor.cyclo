@@ -1,0 +1,7 @@
+step_motor.c:25:6:StepMotor	2
+step_motor.c:49:6:StartMotor	2
+step_motor.c:59:6:StopMotor	1
+step_motor.c:65:6:Forward	1
+step_motor.c:71:6:Reverse	1
+step_motor.c:75:6:Forward_turn_step	2
+step_motor.c:81:6:Reverse_turn_step	2
